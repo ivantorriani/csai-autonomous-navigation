@@ -1,7 +1,13 @@
 ### csai-autonomous-navigation
 
-## Setup
-How to clone and setup the github repository. 
+### Setup
+Basic Setup Instructions, feel free to skip if you've cloned repositories before.
+
+1. On the repository homepage, click the green `Code` button and copy the URL.
+2. On your local machine, open a terminal and navigate to where you want the project to live.
+3. Type `git clone <url>` with the copied URL to download the repository.
+4. Navigate into the project folder with `cd <repo-name>`.
+
 
 ## Branches and Pull Requests
 Please use branches and pull requests when completing tasks so that our working code remains intact and our work doesn't become overwritten. 
